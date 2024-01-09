@@ -1,0 +1,5 @@
+Django==5.0.1
+djangorestframework==3.14.0
+requests==2.31.0
+robotframework==6.1.1
+robotframework-requests==0.9.6
